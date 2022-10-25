@@ -84,9 +84,9 @@ It only uses two brushless motors for propulsion and two servos for the elevons,
 
 ## The team ##
 
-- Marco Robustini: concept design, SuperSlicer project, in-flight tuning and tests
-- Davide Silimbani: 3d design
-- Lorenzo Franco: GCS support
+- [Marco Robustini](https://www.linkedin.com/in/robustini/): concept design, SuperSlicer project, in-flight tuning and tests
+- [Davide Silimbani](https://www.linkedin.com/in/davide-silimbani/): 3d design
+- [Lorenzo Franco](https://www.linkedin.com/in/lorenzing/): GCS support
 - [Edoardo Nunzi](https://www.linkedin.com/in/edoardo-nunzi-8176a31a2/): flight test
 - Antonios Antzoulatos: 3d print test
 
