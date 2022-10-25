@@ -68,7 +68,8 @@ It only uses two brushless motors for propulsion and two servos for the elevons,
 
 ## User support ##
 
-- Discord channel: <https://discord.gg/FuPXAzwt>
+- [Discord channel](https://discord.gg/FuPXAzwt)
+- [Ardupilot Discuss](https://discuss.ardupilot.org/t/explora-tailsitter-vtol-3d-printable-dual-motor-tailsitter/92341)
 
 
 ## How to get involved ##
