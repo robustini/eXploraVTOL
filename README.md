@@ -34,7 +34,8 @@ The slicing of this taislitter is complex, which is why all 3MF-format designs r
 
 ![](https://github.com/robustini/eXploraVTOL/blob/main/resources/wing1_superslicer.gif)
 
-If you decide to use other slicing software such as [Cura](https://3dgbire.com/pages/ultimaker-cura)  you should consider adding reinforcements at crucial points, taking a cue from the 3MF projects we provide as an example.
+If you decide to use other slicing software such as [Cura](https://3dgbire.com/pages/ultimaker-cura) you should consider adding reinforcements at crucial points, taking a cue from the 3MF projects we provide as an example, compatible only with SuperSlicer.
+In this case you will not have to use this 3MFs but import the STLs into your slicing software.
 
 We used the [Gyroid](https://3dsolved.com/3d-printing-with-gyroid-infills-all-you-need-to-know/) infill for most of the profiles, it comes from Nature, butterflies have an identical structure inside their wings, and Nature is never wrong.
 It guarantees lightness and incredible strength.
