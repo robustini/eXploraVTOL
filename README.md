@@ -60,7 +60,7 @@ It only uses two brushless motors for propulsion and two servos for the elevons,
 
 - [The first version of eXplora](https://youtu.be/43UC-_kWp0w)
 - [The second version of eXplora](https://youtu.be/K6R6v6_kQL0)
-- [Flight tests of the V1.0.0](https://youtu.be/hy-UXrUSplU)
+- [Flight tests of the V0.9.0](https://youtu.be/hy-UXrUSplU)
 - [Full automatic mission](https://youtu.be/9AJqqBkgcXk)
 - [Acro capability test](https://youtu.be/VbT0gd1w8IY)
 - [Ardupilot weathervaning feature](https://youtu.be/qcV7hz61uzA)
@@ -98,8 +98,7 @@ The eXplora Tailsitter VTOL project is licensed under the [GNU General Public Li
 
 ## Credits ##
 
-We would like to publicly thank the development team of Ardupilot.
-
+We would like to publicly thank the development team of Ardupilot, and to all the beta testers who helped us.
 
 ## Donate ##
 
