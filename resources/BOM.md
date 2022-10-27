@@ -28,7 +28,8 @@
 
 - 1 x "Ardupilot" compatible flight control (Cube Orange, Pixhawk1 or equivalent), with its dedicated Power Module
 - 1 x M8N GPS with compass, Here3 GPS GNSS, or better (alternatively double gps differently oriented)
-- 1 x Airspeed Sensor MEAS Spec series (e.g. MS4525DO, MS5525), the analogs did not give good results 
+- 1 x Airspeed Sensor MEAS Spec series (e.g. MS4525DO, MS5525), the analogs did not give good results
+- 1 x BEC adequately sized on input/output voltage and maximum servo current, example input 25.2V (6S), output 6V, current 5A
 - 1 x SiK Radio Telemetry or other type
 
 
