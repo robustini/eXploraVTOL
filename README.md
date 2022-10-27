@@ -1,5 +1,7 @@
 # eXplora Tailsitter VTOL
 
+**Every single printable part of the project can be viewed in 3D on [OnShape](https://cad.onshape.com/documents/4c689e5b54cac6902d5813ec/w/fb80a5d05358b4e7959139db/e/8ae4df59a9bf6fdd0ec86a21)**
+
 <img
   src="https://github.com/robustini/eXploraVTOL/blob/main/resources/explora_vtol_000.jpg"
   alt="eXplora Tailsitter VTOL"
