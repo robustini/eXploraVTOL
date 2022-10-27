@@ -15,7 +15,7 @@
 **Propulsion:**
 
 - 2 x GARTT ML 4112 480KV motor, or T-Motor Navigator MN4012 480kV, or equivalent (500W minimum)
-- 2 x 14x8 beech wood propellers (length and pitch and depend on the motor)
+- 2 x 14x8 beech wood propellers (length and pitch depend on the motor)
 - 2 x 50A 6S ESC BlHeli32 with telemetry (alternatively 40A but not less)
 
 
@@ -28,7 +28,7 @@
 
 - 1 x "Ardupilot" compatible flight control (Cube Orange, Pixhawk1 or equivalent), with its dedicated Power Module
 - 1 x M8N GPS with compass, Here3 GPS GNSS, or better (alternatively double gps differently oriented)
-- 1 x Airspeed Sensor MEAS Spec series (e.g. MS4525DO, MS5525) 
+- 1 x Airspeed Sensor MEAS Spec series (e.g. MS4525DO, MS5525), the analogs did not give good results 
 - 1 x SiK Radio Telemetry or other type
 
 
