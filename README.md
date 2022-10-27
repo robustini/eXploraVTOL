@@ -55,7 +55,7 @@ eXplora Tailsitter VTOL it requires flight control and other electronic componen
 
 It has been tested with [Ardupilot](https://ardupilot.org) and [PX4](https://px4.io).
 
-It only uses two brushless motors for propulsion and two servos for the elevons, the minimum required for a fixed-wing VTOL.
+This is the provisional [BOM](https://github.com/robustini/eXploraVTOL/tree/main/resources/BOM.md) to complete the UAS, continuously being updated, absent for now of screws and nuts.
 
 
 ## Videos ##
