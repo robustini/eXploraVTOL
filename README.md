@@ -102,6 +102,7 @@ If you would like to try our VTOL the [model](https://github.com/robustini/eXplo
 - [Edoardo Nunzi](https://www.linkedin.com/in/edoardo-nunzi-8176a31a2/): flight test
 - Antonios Antzoulatos: 3d print test
 - [Marco Robustini](https://www.linkedin.com/in/robustini/): concept design, SuperSlicer project, in-flight tuning and tests
+- [Brandon MacDougall](https://www.linkedin.com/in/brandon-macdougall-b273907/): Realflight model
 
 ## License ##
 
