@@ -85,6 +85,16 @@ This is the provisional [BOM](https://github.com/robustini/eXploraVTOL/tree/main
 - You can also open a [discussion](https://github.com/robustini/eXploraVTOL/discussions) to look for information or anything else.
 
 
+## Simulation ##
+
+<img
+  src="https://github.com/robustini/eXploraVTOL/blob/main/resources/eXplora_Realflight.jpg"
+  alt="eXplora Tailsitter VTOL"
+  title="eXplora Tailsitter VTOL"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
+
+If you would like to try our VTOL the [model](https://github.com/robustini/eXploraVTOL/tree/main/simulation/eXplora_Tailsiter_VTOL.RFX) for Realflight is available.
+
 ## The team ##
 
 - [Davide Silimbani](https://www.linkedin.com/in/davide-silimbani/): 3d design
