@@ -95,14 +95,17 @@ This is the provisional [BOM](https://github.com/robustini/eXploraVTOL/tree/main
 
 If you would like to try our VTOL the [model](https://github.com/robustini/eXploraVTOL/tree/main/simulation/eXplora_Tailsiter_VTOL.RFX) for Realflight is available.
 
+
 ## The team ##
 
 - [Davide Silimbani](https://www.linkedin.com/in/davide-silimbani/): 3d design
+- [Roberto Casoni](https://www.linkedin.com/in/roberto-casoni-463a5914a/): test pilot
 - [Lorenzo Franco](https://www.linkedin.com/in/lorenzing/): GCS support
 - [Edoardo Nunzi](https://www.linkedin.com/in/edoardo-nunzi-8176a31a2/): flight test
 - Antonios Antzoulatos: 3d print test
-- [Marco Robustini](https://www.linkedin.com/in/robustini/): concept design, SuperSlicer project, in-flight tuning and tests
 - [Brandon MacDougall](https://www.linkedin.com/in/brandon-macdougall-b273907/): Realflight model
+- [Marco Robustini](https://www.linkedin.com/in/robustini/): concept design, SuperSlicer project, in-flight tuning and tests
+
 
 ## License ##
 
