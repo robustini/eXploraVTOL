@@ -70,7 +70,7 @@ This is the provisional [BOM](https://github.com/robustini/eXploraVTOL/tree/main
 
 ## User support ##
 
-- [Discord channel](https://discord.gg/FuPXAzwt)
+- [Discord channel](https://discord.gg/TCjNnfAEsB)
 - [Ardupilot Discuss](https://discuss.ardupilot.org/t/explora-tailsitter-vtol-3d-printable-dual-motor-tailsitter/92341)
 
 
