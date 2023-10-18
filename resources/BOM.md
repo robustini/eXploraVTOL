@@ -21,7 +21,7 @@
 
 **Servos:**
 
-- 2 x SAVOX SV-1250MG Digital Servo or equivalent/better
+- 2 x SAVOX SC-1252MG Digital Servo (standard size) or equivalent/better
 
 
 **Autopilot:**
