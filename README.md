@@ -63,7 +63,7 @@ This is the provisional [BOM](https://github.com/robustini/eXploraVTOL/tree/main
 - [The first version of eXplora](https://youtu.be/43UC-_kWp0w)
 - [The second version of eXplora](https://youtu.be/K6R6v6_kQL0)
 - [Flight tests of the V0.9.0](https://youtu.be/hy-UXrUSplU)
-- [Full automatic mission](https://youtu.be/9AJqqBkgcXk)
+- [Full automatic mission](https://youtu.be/ne_7n9bvjYg)
 - [Acro capability test](https://youtu.be/VbT0gd1w8IY)
 - [Ardupilot: weathervaning feature](https://youtu.be/qcV7hz61uzA)
 - [Ardupilot: QRTL](https://youtu.be/3Y-EviXewf0)
